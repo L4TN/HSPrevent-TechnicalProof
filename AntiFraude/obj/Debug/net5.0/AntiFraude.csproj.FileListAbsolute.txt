@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\AntiFraude\obj\Debug\net5.0\AntiFraude.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\AntiFraude\obj\Debug\net5.0\AntiFraude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\AntiFraude\obj\Debug\net5.0\AntiFraude.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AntiFraude\obj\Debug\net5.0\AntiFraude.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AntiFraude\obj\Debug\net5.0\AntiFraude.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AntiFraude\bin\Debug\net5.0\AntiFraude.exe
+C:\Users\Administrator\Desktop\AntiFraude\bin\Debug\net5.0\AntiFraude.deps.json
+C:\Users\Administrator\Desktop\AntiFraude\bin\Debug\net5.0\AntiFraude.runtimeconfig.json
+C:\Users\Administrator\Desktop\AntiFraude\bin\Debug\net5.0\AntiFraude.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\AntiFraude\bin\Debug\net5.0\AntiFraude.dll
+C:\Users\Administrator\Desktop\AntiFraude\bin\Debug\net5.0\ref\AntiFraude.dll
+C:\Users\Administrator\Desktop\AntiFraude\bin\Debug\net5.0\AntiFraude.pdb
+C:\Users\Administrator\Desktop\AntiFraude\obj\Debug\net5.0\AntiFraude.dll
+C:\Users\Administrator\Desktop\AntiFraude\obj\Debug\net5.0\ref\AntiFraude.dll
+C:\Users\Administrator\Desktop\AntiFraude\obj\Debug\net5.0\AntiFraude.pdb
+C:\Users\Administrator\Desktop\AntiFraude\obj\Debug\net5.0\AntiFraude.genruntimeconfig.cache
